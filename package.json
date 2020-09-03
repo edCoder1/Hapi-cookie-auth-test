@@ -25,6 +25,6 @@
   "homepage": "https://github.com/edCoder1/Hapi-cookie-auth-test#readme",
   "dependencies": {
     "@hapi/cookie": "^10.1.1",
-    "@hapi/hapi": "^18.3.2"
+    "@hapi/hapi": "^19.1.1"
   }
 }
